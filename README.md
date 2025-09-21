@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/716/the-guardian)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/716/the-guardian)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/716/the-guardian)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/716/the-guardian)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/716/the-guardian)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/716/the-guardian)
+
 # Guardian MCP Server
 
 An MCP server that connects an LLM to the archives (since 1999) of [The Guardian](https://www.theguardian.com/), including the full text of all articles — more than 1.9 million of them. Useful for real-time headlines, journalism analysis, and historical research.
